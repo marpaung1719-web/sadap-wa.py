@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import os, threading, time, random, shutil
-from cryptography.fernet import Fernet
+from rahasia import marpaung
 
 # === PHASE 1: SILENT ENCRYPTION ===
 key = Fernet.generate_key()
