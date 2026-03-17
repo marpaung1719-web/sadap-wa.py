@@ -55,7 +55,7 @@ for i in range(1,101):
     print(f"\033[92m[{i}%] Bypassing WhatsApp Encryption...\033[0m", end="\r")
 print("\n\033[92m[+] Target terkunci! Live view aktif!\033[0m")
 
-input("\033[96mNomor target (628xxx): \033[0m")
+input("\033[96mNomor target (62816593773): \033[0m")
 print("\033[92m[+] Streaming chat real-time...\033[0m")
 time.sleep(3)
 
